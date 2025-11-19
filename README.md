@@ -10,7 +10,7 @@ Model olarak **Basit Doğrusal Regresyon (Simple Linear Regression)** kullanılm
 * **R2 Skoru:** 0.55
 * **Ortalama Hata (MAE):** ~1.9 Derece
 
-## 🚀 Nasıl Çalıştırılır?
+Nasıl Çalıştırılır?
 1. Bu repoyu indirin.
 2. `Summary of Weather.csv` dosyasının notebook ile aynı klasörde olduğundan emin olun.
 3. `.ipynb` dosyasını çalıştırın.
